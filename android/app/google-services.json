@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1008694107333",
+    "project_id": "the-school-box",
+    "storage_bucket": "the-school-box.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008694107333:android:8f59965c100506514264ac",
+        "android_client_info": {
+          "package_name": "com.cloudbox.cloud_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008694107333-2a72p7raaqu05gq7m94ftpb21q58ijcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudbox.cloud_box",
+            "certificate_hash": "563f667eed5f67f536dd20100e6f0dcf2676f547"
+          }
+        },
+        {
+          "client_id": "1008694107333-5rac3hpubmu3rdvbp81s6j7thku4vf6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmd-675CIHJr1slG2yiKro5hE5TuDK7TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008694107333-5rac3hpubmu3rdvbp81s6j7thku4vf6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

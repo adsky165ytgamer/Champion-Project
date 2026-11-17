@@ -1,0 +1,12 @@
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - web/**
+  errors:
+    deprecated_member_use: ignore
+
+linter:
+  rules:
+    avoid_print: false
+    prefer_const_constructors: false
